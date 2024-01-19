@@ -1,4 +1,4 @@
-package com.app.davinci.testlabs.arrays;
+package com.app.davinci.testlabs.ds.arrays;
 
 /* Find the frequency of a number n in an
  * array arr of length l */

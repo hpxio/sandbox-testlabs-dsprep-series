@@ -1,4 +1,4 @@
-package com.app.davinci.testlabs.arrays;
+package com.app.davinci.testlabs.ds.arrays;
 
 import java.util.*;
 

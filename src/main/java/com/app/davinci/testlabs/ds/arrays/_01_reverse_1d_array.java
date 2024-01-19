@@ -1,4 +1,4 @@
-package com.app.davinci.testlabs.arrays;
+package com.app.davinci.testlabs.ds.arrays;
 
 public class _01_reverse_1d_array {
     public static void main(String[] args) {

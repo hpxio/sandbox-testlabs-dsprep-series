@@ -1,4 +1,4 @@
-package com.app.davinci.testlabs.linear_search;
+package com.app.davinci.testlabs.algo.linear_search;
 
 /***
  * Create a method search(int n, int[] arr) that finds

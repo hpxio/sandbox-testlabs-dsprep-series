@@ -1,4 +1,4 @@
-package com.app.davinci.testlabs.arrays;
+package com.app.davinci.testlabs.ds.arrays;
 
 public class _02_rotate_1d_array {
 

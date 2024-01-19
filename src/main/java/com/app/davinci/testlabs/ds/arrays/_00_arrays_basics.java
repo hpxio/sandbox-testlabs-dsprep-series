@@ -1,6 +1,4 @@
-package com.app.davinci.testlabs.arrays;
-
-import java.util.Arrays;
+package com.app.davinci.testlabs.ds.arrays;
 
 public class _00_arrays_basics {
     public static void main(String[] args) {

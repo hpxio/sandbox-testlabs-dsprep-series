@@ -1,8 +1,6 @@
-package com.app.davinci.testlabs.arrays;
+package com.app.davinci.testlabs.ds.arrays;
 
 import com.app.davinci.testlabs.utils.ArrayUtils;
-
-import java.util.Arrays;
 
 /* Find the Kth largest and the Kth smallest number in an array.
  * Alternate, what if we want to know the index of the kth largest

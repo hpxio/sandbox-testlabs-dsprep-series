@@ -1,4 +1,4 @@
-package com.app.davinci.testlabs.arrays;
+package com.app.davinci.testlabs.ds.arrays;
 
 /**
  * Also called Sort an array of 0s, 1s and 2s.
@@ -13,7 +13,7 @@ public class _06_dutch_flag_problem {
 
     private int[] sort(int[] arr) {
         int[] res = new int[arr.length];
-        
+
         return res;
     }
 }
